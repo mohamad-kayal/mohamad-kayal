@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamad-kayal
-- 👀 I’m interested in web applications
-- 🌱 I’m currently learning Web scraping, ReactJS
-- 💞️ I’m looking to collaborate on ... idk for now =p
+- 👀 I’m interested in web development
+- 🌱 I’m currently developing my Angular/JS skills
+- 💞️ I’m looking to collaborate on web applications built using JS/TS
 - 📫 How to reach me md.k.1998Athotmail.com
 
 <!---

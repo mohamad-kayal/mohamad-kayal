@@ -27,7 +27,7 @@ AI Tooling     →  Claude Code · GitHub Copilot (daily, not occasionally)
 | Project | What it is | What I did |
 | --- | --- | --- |
 | [**Budget Direct**](https://www.budgetdirect.com.au) | Multi-brand insurance platform serving millions | Angular/NGRX features across the Coles rollout, the Home Insurance rewrite, and CCW (consultant webscreens) |
-| [**Brizcars**](https://brizcars.com.au) | Used-car dealership in Brisbane — yes, mine | Run the digital side end-to-end: Odoo website, stock listings, enquiries, on-site branding |
+| [**Brizcars**](https://brizcars.com.au) | Used-car dealership in Brisbane | Run the digital side end-to-end: Odoo website, stock listings, enquiries, on-site branding |
 | Solo SaaS — private beta (2026) | Multi-tenant vehicle inspection platform | End-to-end with AI-assisted dev: Next.js, NestJS, Postgres with RLS, BullMQ workers, Fly.io. Architecture write-up → [moekayal.me/autoinspectpro](https://moekayal.me/autoinspectpro) |
 | Invelops Engineering, Istanbul | End-to-end ERP rollout for a 50-person engineering firm | Led the Odoo deployment, wrote custom Python modules, migrated 30 mailboxes off Google Workspace |
 | [**MAA-ALTHAHAB**](https://maa-althahab.com) | Multi-region fragrance e-commerce (Majouri, Maison Matine) | 3–5 Shopify storefronts, custom Liquid themes, multi-region rollouts |
